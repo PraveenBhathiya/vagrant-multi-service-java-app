@@ -160,8 +160,8 @@ sudo chown tomcat:tomcat /usr/local/tomcat/webapps -R
 ```
 - Username: `nextgen7`
 - Password: `nextgen7`
-
----
+```
+![Login Page](login_page.png)
 
 ## 🌟 Key Takeaways
 - Hands-on experience with Vagrant & VirtualBox for provisioning
