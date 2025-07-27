@@ -1,4 +1,4 @@
-# 🚀 DevOps Project 34: Multi-Tier Java App Deployment Using VirtualBox & Vagrant
+# 🚀 Multi-Tier Java App Deployment Using VirtualBox & Vagrant
 
 ## 📄 Project Overview
 
