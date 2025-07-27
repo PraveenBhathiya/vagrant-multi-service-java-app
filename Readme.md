@@ -174,13 +174,7 @@ sudo chown tomcat:tomcat /usr/local/tomcat/webapps -R
 
 ## 👤 Author
 **Praveen Bhathiya**  
-LinkedIn: [Your LinkedIn]  
-GitHub: [Your GitHub URL]
 
----
-
-## 🔒 License
-This project is licensed under the MIT License.
 
 ---
 
