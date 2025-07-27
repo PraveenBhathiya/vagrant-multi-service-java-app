@@ -3,6 +3,7 @@
 ## 📄 Project Overview
 
 This is a full-stack DevOps project involving the local deployment of a multi-tier Java application using five virtual machines. Each VM represents a unique service: MySQL, Memcached, RabbitMQ, Tomcat, and Nginx. The infrastructure is set up using VirtualBox and automated with Vagrant.
+![Architectural Diagram](multitier.png)
 
 ### 🔧 Key Highlights
 
