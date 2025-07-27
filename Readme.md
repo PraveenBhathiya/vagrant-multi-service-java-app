@@ -154,10 +154,8 @@ sudo chown tomcat:tomcat /usr/local/tomcat/webapps -R
 ## 📅 Final Access
 
 - Access the application from the browser:
+  ```[http://192.168.56.11](http://192.168.56.11)
   ```
-  ```
-
-[http://192.168.56.11](http://192.168.56.11)
 
 ```
 - Username: `nextgen7`
